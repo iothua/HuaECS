@@ -1,8 +1,8 @@
 # 一、HuaECS介绍
-HuaECS是接合官方ECS架构，集成统一Input直接支持鼠标、Andorid、VR/AR等，选择不同的相关SDK可支持不同的输入端模式。同时基于UGUI进行封装KGUI，也是用于兼容官方ECS，KGUI提供基本控件与UI框架。
+HuaECS是结合官方ECS架构，集成统一Input直接支持鼠标、Andorid、VR/AR等，选择不同的相关SDK可支持不同的输入端模式。同时基于UGUI进行封装KGUI，也是用于兼容官方ECS，KGUI提供基本控件与UI框架。
 HuaECS提供AssetBundle解决方案以及下载更新解决方案，HuaECS提供物体抓取移动、摄像机旋转缩放等基本操作，同时将会支持数据的回滚等功能。
 
-# 二、[Entity Component System API](https://github.com/iothua/HuaECS/wiki/Entity-Component-System-API)
+# 二、[Entity Component System API](https://github.com/iothua/HuaECS/wiki/ECS%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87API(%E8%87%AA%E8%AF%91))
 
 # 三、ECS外部资料
 
